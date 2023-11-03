@@ -1,0 +1,112 @@
+import entretenimiento.*
+
+describe "entretenimientos" {
+
+	//PUNTO 1
+	
+//	const marie = una persona con 1000 de dinero, está vacunada y su experiencia deportiva es 5
+//	const pierre = una persona con 10 de dinero, no está vacunado y su experiencia deportiva es 3
+//		
+//	const independienteJuventus = // un partido de fútbol con capacidad 2 y precio de entrada 5 
+//	const lesLuthiers = // un espectáculo con capacidad 2 y precio de entrada 20
+//	const dominico = // un parque cerrado con capacidad 1 
+//	const zoo = // un ecoparque cerrado con capacidad 2
+	
+	//PUNTO 2
+	
+//	const emanuel  = una persona con 2000 de dinero, está vacunada y su experiencia deportiva es 20
+//	const luciana = una persona con 30 de dinero, está vacunada y su experiencia deportiva es 15
+//
+//	const quilmes = una ciudad con marie, pierre, emanuel y luciana ; sus entretenimientos son independienteJuventus, lesLuthiers y  zoo
+//	const avellaneda = una ciudad con marie y pierre ; su entretenimientos solo incluyen a dominico
+
+	//PUNTO 3
+	// Configurar en el lugar que corresponda las diversiones para los entretenimientos:
+	// independienteJuventus y lesLuthiers es 10
+	// dominico y zoo es 15 
+	
+	
+//	test "1.1 ingresar parque" {
+//		//marie ingresa al parque dominico pero éste está cerrado
+//		// asegurarse que no hay nadie en dominico
+//	
+//		// abrir dominicio	
+//		
+//		//marie ingresa a dominico
+//		//asegurarse que las personas que están en domínico es solo el conjunto formado por marie
+//	}
+	
+//	test "1.2 ingresar ecoparque" {
+//		// marie ingresa al zoo pero éste está cerrado
+//		// asegurarse que no hay nadie en el zoo
+//		
+//		//abrir zoo
+//
+//		//marie ingresa al zoo
+//		//pierre ingresa al zoo pero no tiene capacidad para recibirlo!				
+//		//asegurarse que las personas que están en el zoo es solo el conjunto formado por marie
+//	}
+
+//	test "1.3 ingresar espectaculo" {
+//		//pierre ingresa a lesLuthiers pero no puede pagar la entrada
+//		//marie intresa a lesLuthiers
+//		//asegurarse que las personas que están en lesLuthiers es solo el conjunto formado por marie
+//		// el dinero que tiene marie es 980
+//	}
+	
+//	test "1.4 ingresar futbol" {
+//		//pierre ingresa a independienteJuventus
+//		//marie ingresa a independienteJuventus
+//		//asegurarse que las personas que están en independienteJuventus son marie y pierre
+//		// el dinero de marie es 995
+//		// la experiencia deportiva de marie es 6
+//		// el dinero de pierre es 5
+//		// la experiencia deportiva de pierre es 4		
+//	}
+	
+//	test "2.1 bono cultural" {
+//		// avellaneda intenta pagar un bono cultural de 10, pero no es válido porque no tiene tantos espectáculos
+//		// el dinero de marie continúa siendo 1000
+//		// el dinero de pierre continúa siendo 10
+//
+//		// quilmes paga un bono cultural de 10
+//		// el dinero de marie es 1010
+//		// el dinero de pierre es 20
+//		// el dinero de luciana es 40
+//		// el dinero de emanuel es 2010
+//	}
+	
+//	test "2.2 interesantes" {
+//		//abrir el zoo
+//		// marie ingresa al zoo
+//		// emanuel ingresa al zoo
+//		// luciana ingresa a independienteJuventus
+//		// emanuel ingresa a independienteJuventus
+//		// luciana ingresa a lesLuthiers
+//		// emanuel ingresa a lesLuthiers
+//		
+//		// las personas interesantes de quilmes son marie, emanuel y luciana
+//	}
+
+//	test "2.3 aburridas" {
+//		
+//		// abrir el zoo
+//		// marie ingresa al zoo
+//		// emanuel ingresa al zoo
+//		// emanuel ingresa a independienteJuventus
+//		
+//		// Las personas aburridas de quilmes son luciana y pierre
+//		// Las personas aburridas de avellaneda son marie y pierre
+//				
+//	}
+	
+//	test "3 satisfacción " {
+//		// la satisfaccion de dominico para marie es 10
+//		// la satisfaccion de zoo para marie es 20
+//		// la satisfaccion de lesLuthiers para marie es 8.99
+//		// la satisfaccion de independienteJuventus para marie es 8.999
+//		 
+//	}
+	
+	
+}
