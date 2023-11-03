@@ -33,6 +33,7 @@ describe "entretenimientos" {
 //		// abrir dominicio	
 //		
 //		//marie ingresa a dominico
+//		//pierre ingresa al zoo pero no tiene capacidad para recibirlo!				
 //		//asegurarse que las personas que están en domínico es solo el conjunto formado por marie
 //	}
 	
@@ -43,7 +44,7 @@ describe "entretenimientos" {
 //		//abrir zoo
 //
 //		//marie ingresa al zoo
-//		//pierre ingresa al zoo pero no tiene capacidad para recibirlo!				
+//		//pierre ingresa al zoo pero no deberia poder porque no está vacunado!				
 //		//asegurarse que las personas que están en el zoo es solo el conjunto formado por marie
 //	}
 
